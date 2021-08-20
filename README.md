@@ -1,4 +1,4 @@
 # Welcome
 
-_"She has an neurally integrated quality assurance department"_
-  _- anonymous friend_
+_"She has an neurally integrated quality assurance department"_\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_- anonymous friend_
